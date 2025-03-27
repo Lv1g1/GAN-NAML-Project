@@ -3,3 +3,6 @@ env/
 
 # editor
 .vscode/
+
+validation_images/
+models/

@@ -5,3 +5,7 @@ epoch 1200 + 300 + 100
 gen_learning_rate = 0.5e-4
 disc_learning_rate = 1.427e-4
 epoch 100
+5
+gen_learning_rate = 2e-5
+disc_learning_rate = 6.45e-5
+epoch 100

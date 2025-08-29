@@ -16,7 +16,7 @@
 
 ## Introduction
 
-This project implements a **Generative Adversarial Network (GAN)** using [JAX](https://jax.readthedocs.io/en/latest/), a high-performance machine learning library. The model is trained on a subset of the **MNIST dataset**, specifically using images of digits 1, 4, and 8. The GAN consists of two neural networks:
+This project implements a **Generative Adversarial Network (GAN)** using [JAX](https://jax.readthedocs.io/en/latest/), a high-performance machine learning library. The model is trained on the **MNIST dataset**. The GAN consists of two neural networks:
 - A **Generator** that creates synthetic images.
 - A **Discriminator** that distinguishes between real and generated images.
 
